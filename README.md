@@ -1,7 +1,6 @@
--  Hi, I’m @Minneo03
--  I’m interested in Unity Projects and Game Jams
--  I’m currently learning Unity
--  I’m looking to collaborate on Unity
+-  Hi, I’m Ryan Minneo
+-  I’m interested in learning the ins and outs of Java programming
+-  I’m currently taking Data Structures along with Probability and Statistics
 -  How to reach me: ryanminneo03@gmail.com
 
 <!---
