@@ -1,6 +1,6 @@
 -  Hi, I’m Ryan Minneo
 -  I’m interested in learning the different Design Patterns in Java
--  I’m currently taking Data Structures 1 along with Probability and Statistics
+-  I’m currently taking Foundations of Computer Science and Computer Networking Principles at Stockton University
 -  How to reach me: ryanminneo03@gmail.com
 
 <!---
