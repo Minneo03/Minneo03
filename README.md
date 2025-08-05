@@ -1,6 +1,6 @@
 -  Hi, I’m Ryan Minneo
 -  I’m interested in learning the different Design Patterns in Java
--  I’m currently taking Software Engineering and Artificial Intelligence at Stockton University
+-  I recently graduated with a Bachelor's degree in Computer Science from Stockton University
 -  How to reach me: ryanminneo03@gmail.com
 
 <!---
